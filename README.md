@@ -1,6 +1,6 @@
 # Project Title: University of Excellence
 
-##Project Description and Purpose:
+## Project Description and Purpose:
 
 In this Project, I used Java Spring to dispatch the data of a specific University via HTTP responses.
 
@@ -52,7 +52,7 @@ the mark achieved by a specific student in a specific course, as well as all mar
 in all his/her courses and display the data retrieved from the aforementioned files as json files on the web,
 via a user-friendly, interactive web environment. 
 
-##Running the application locally
+## Running the application locally
 
 In order to run this Spring Boot application on your local machine, you can execute 
 the main method in the gr.codehub.UniversityOfExcellence.UniversityOfExcellenceApplication class from your IDE.
